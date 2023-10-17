@@ -1,0 +1,30 @@
+body{
+	background: ;
+}
+div.gallery {
+  margin: 100px;
+  border: 9px solid #000000;
+  float: left;
+  width: 250px;
+}
+
+div.gallery:hover {
+  border: 9px solid #FFFFFF;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: auto;
+  font-family: monospace;
+}
+p{
+  font-size: smaller;
+}
+h1{
+  font-size: 60px;
+}
